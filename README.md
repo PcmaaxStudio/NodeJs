@@ -7,4 +7,4 @@ solusi : menggunakan NoddeJs untuk connect ke GitHub untuk mendapatkan info dan 
 * [x]TODO: Connect to GitHub API
 * [x]TODO: Baca Data
 * [x]TODO: Parsing Data
-* [ ]TODO: Print ke console
+* [x]TODO: Print ke console
