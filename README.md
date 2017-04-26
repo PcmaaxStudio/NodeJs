@@ -5,6 +5,6 @@ solusi : menggunakan NoddeJs untuk connect ke GitHub untuk mendapatkan info dan 
 
 
 * [x]TODO: Connect to GitHub API
-* []TODO: Baca Data
+* [x]TODO: Baca Data
 * [ ]TODO: Parsing Data
 * [ ]TODO: Print ke console
